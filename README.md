@@ -1,24 +1,6 @@
----
-page_type: sample
-languages:
-- csharp
-products:
-- dotnet
-description: "Add 150 character max description"
-urlFragment: "update-this-to-unique-url-stub"
----
-
 # Official Microsoft Sample
 
-<!-- 
-Guidelines on README format: https://review.docs.microsoft.com/help/onboard/admin/samples/concepts/readme-template?branch=master
-
-Guidance on onboarding samples to docs.microsoft.com/samples: https://review.docs.microsoft.com/help/onboard/admin/samples/process/onboarding?branch=master
-
-Taxonomies for products and languages: https://review.docs.microsoft.com/new-hope/information-architecture/metadata/taxonomies?branch=master
--->
-
-In this tutorial we will walk you through the steps required to apply a new language to the COVID-19 Triage template, using the Healthcare Bot built-in localization
+In this tutorial we will walk you through the required steps to apply a new language to the COVID-19 Triage template, using the Healthcare Bot built-in localization
 
 ## Key concepts
 
